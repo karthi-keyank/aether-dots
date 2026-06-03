@@ -1,7 +1,3 @@
-# caelestia-meta
-
-# Maintainer: Soramane <soramane32 at gmail dot com>
-
 pkgname='caelestia-meta'
 pkgver=r183.cf94e7f
 pkgrel=1
