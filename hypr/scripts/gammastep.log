@@ -1,0 +1,649 @@
+------------------------------
+Time: Mon May  4 09:21:36 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: running → stopping
+------------------------------
+Time: Mon May  4 09:21:49 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+------------------------------
+Time: Mon May  4 09:21:52 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: running → stopping
+------------------------------
+Time: Mon May  4 09:22:06 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+------------------------------
+Time: Mon May  4 09:22:15 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: running → stopping
+------------------------------
+Time: Mon May  4 09:22:22 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Mon May  4 09:22:26 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+------------------------------
+Time: Mon May  4 09:24:57 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: running → stopping
+------------------------------
+Time: Mon May  4 09:26:01 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Mon May  4 09:26:07 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: running → stopping
+------------------------------
+Time: Mon May  4 09:26:08 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Mon May  4 09:26:08 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+------------------------------
+Time: Mon May  4 09:26:09 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+------------------------------
+Time: Mon May  4 09:26:10 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: running → stopping
+------------------------------
+Time: Mon May  4 09:26:23 PM IST 2026
+DBUS: unix:path=/run/user/1000/bus
+WAYLAND: wayland-1
+Status: not running → starting
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Mon May  4 09:35:26 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May  4 09:35:30 PM IST 2026
+Starting gammastep
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Mon May  4 09:38:21 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May  4 09:38:26 PM IST 2026
+Starting gammastep
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Mon May  4 09:39:24 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May  4 09:39:26 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May  4 09:39:28 PM IST 2026
+Starting gammastep
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Tue May  5 11:23:21 AM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Tue May  5 03:15:39 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Tue May  5 06:38:59 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:02 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:04 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:05 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:06 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:06 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:06 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+------------------------------
+Time: Tue May  5 06:39:06 PM IST 2026
+Blocked: already running
+Done
+------------------------------
+Time: Tue May  5 06:39:07 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:07 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:08 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:09 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Tue May  5 06:39:10 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+------------------------------
+Time: Tue May  5 06:39:10 PM IST 2026
+Blocked: already running
+Done
+------------------------------
+Time: Tue May  5 06:39:10 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+------------------------------
+Time: Tue May  5 06:39:10 PM IST 2026
+Blocked: already running
+Done
+------------------------------
+Time: Tue May  5 06:39:11 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+------------------------------
+Time: Tue May  5 06:39:11 PM IST 2026
+Blocked: already running
+Done
+------------------------------
+Time: Tue May  5 06:39:11 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+------------------------------
+Time: Tue May  5 06:39:11 PM IST 2026
+Blocked: already running
+Done
+------------------------------
+Time: Tue May  5 06:39:11 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+------------------------------
+Time: Tue May  5 06:39:11 PM IST 2026
+Blocked: already running
+Done
+------------------------------
+Time: Tue May  5 06:39:12 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+------------------------------
+Time: Tue May  5 06:39:12 PM IST 2026
+Blocked: already running
+Done
+------------------------------
+Time: Tue May  5 06:39:12 PM IST 2026
+Starting gammastep
+/home/karthi/.config/hypr/scripts/gammastep-toggle.sh: line 33: gammastep: command not found
+Done
+------------------------------
+Time: Fri May  8 04:46:26 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 04:46:29 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 04:46:34 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 04:46:38 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 06:22:35 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 06:22:37 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 06:22:39 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 06:22:46 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 06:22:54 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 06:22:58 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 06:23:13 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 06:23:14 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 06:52:51 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 06:53:00 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 06:53:05 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:07:46 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:07:50 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:07:53 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:07:55 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:12:41 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:12:45 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:12:48 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:13 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:15 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:16 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:16 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:18 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:19 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:19 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:20 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:21 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:21 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:22 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:23 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:23 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:24 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:24 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:25 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:25 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:25 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:26 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:26 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:26 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:15:31 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 07:17:34 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 07:17:55 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 09:05:52 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 09:05:55 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 09:05:59 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 09:06:00 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 09:08:10 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Fri May  8 09:08:15 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Fri May  8 09:08:18 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May  9 06:59:01 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May  9 08:19:09 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Sat May  9 08:19:13 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May  9 08:21:37 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Sat May  9 08:21:37 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May  9 08:33:34 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May  9 09:04:00 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Sat May  9 09:04:02 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sun May 10 12:42:05 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sun May 10 12:42:10 PM IST 2026
+Starting gammastep
+Warning: Zero outputs support gamma adjustment.
+Warning: 1/1 output(s) do not support gamma adjustment.
+Done
+------------------------------
+Time: Sun May 10 12:42:17 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sun May 10 07:02:43 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Tue May 12 05:40:34 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Tue May 12 05:40:38 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Tue May 12 05:54:45 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Tue May 12 08:14:08 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Wed May 13 05:11:52 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Wed May 13 05:11:56 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Wed May 13 05:11:57 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 14 07:27:47 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 14 08:54:00 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 14 09:02:51 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 14 09:38:53 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May 16 07:18:45 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May 16 07:24:32 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May 16 08:27:04 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May 18 08:17:16 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May 18 08:23:57 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May 18 08:45:03 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Mon May 18 10:20:12 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Wed May 20 08:40:27 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 21 03:39:42 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 21 03:39:44 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Thu May 21 03:39:46 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sat May 23 07:19:03 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sun May 24 06:11:52 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sun May 24 06:12:57 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Sun May 24 06:12:58 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sun May 24 06:13:00 PM IST 2026
+Starting gammastep
+Done
+------------------------------
+Time: Sun May 24 06:13:00 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Sun May 24 07:03:31 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Wed May 27 06:32:03 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Wed May 27 08:56:15 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 28 08:03:39 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Thu May 28 09:49:43 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Tue Jun  2 06:57:14 PM IST 2026
+Stopping gammastep
+Done
+------------------------------
+Time: Wed Jun  3 07:16:34 PM IST 2026
+Stopping gammastep
+Done
